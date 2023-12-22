@@ -90,6 +90,10 @@ Contributions to this project are welcome. If you have suggestions, find issues,
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code, but please adhere to the license terms.
 
+## Note 
+
+This work is done for the partial fulfillment of Data Science course conducted by NCC Education and supervised by MalaDeep Upadhaya.
+
 ---
 
 Explore the multifaceted relationships between survival and various factors on the Titanic! ⚓🚢
